@@ -1,4 +1,4 @@
-module github.com/hexcraft-biz/misc/imgin
+module github.com/hexcraft-biz/misc-imgin
 
 go 1.21.1
 
