@@ -3,7 +3,7 @@ module github.com/hexcraft-biz/misc-imgin
 go 1.21.1
 
 require (
-	github.com/hexcraft-biz/her v0.0.3
+	github.com/hexcraft-biz/her v0.0.5
 	github.com/neofelisho/apng v0.0.0-20201023155455-6c6fc825f2ce
 	github.com/u2takey/ffmpeg-go v0.5.0
 	github.com/vincent-petithory/dataurl v1.0.0

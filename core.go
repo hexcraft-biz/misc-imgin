@@ -32,7 +32,7 @@ type Imgin struct {
 	DirUploads string      `json:"-" form:"-"`
 }
 
-func (i *Imgin) Validate() *her.Error {
+func (i *Imgin) Validate() her.Error {
 	u, err := url.Parse(i.Src)
 	if err != nil {
 		return her.ErrBadRequest
@@ -141,7 +141,7 @@ func JpegToDataUrl(payload []byte) string {
 // ================================================================
 //
 // ================================================================
-func CropImage(img image.Image, crop image.Rectangle) (image.Image, *her.Error) {
+func CropImage(img image.Image, crop image.Rectangle) (image.Image, her.Error) {
 	type subImager interface {
 		SubImage(r image.Rectangle) image.Image
 	}

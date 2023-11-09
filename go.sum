@@ -12,6 +12,8 @@ github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+
 github.com/hashicorp/golang-lru v0.5.4/go.mod h1:iADmTwqILo4mZ8BN3D2Q6+9jd8WM5uGBxy+E8yxSoD4=
 github.com/hexcraft-biz/her v0.0.3 h1:pP25+gVPGx9Vds6mesSovf7Ubfh5Sny2DRjRwEsmG4s=
 github.com/hexcraft-biz/her v0.0.3/go.mod h1:g7jcBefsWaWBmhFzfeO0m8GsnrJQOEkFHS/SeiMTM+Y=
+github.com/hexcraft-biz/her v0.0.5 h1:HWmLtFxnKp9YVNQJiCnVGGG8yUdurFEjveYILGys9WY=
+github.com/hexcraft-biz/her v0.0.5/go.mod h1:g7jcBefsWaWBmhFzfeO0m8GsnrJQOEkFHS/SeiMTM+Y=
 github.com/jmespath/go-jmespath v0.4.0 h1:BEgLn5cpjn8UN1mAw4NjwDrS35OdebyEtFe+9YPoQUg=
 github.com/jmespath/go-jmespath v0.4.0/go.mod h1:T8mJZnbsbmF+m6zOOFylbeCJqk5+pHWvzYPziyZiYoo=
 github.com/jmespath/go-jmespath/internal/testify v1.5.1 h1:shLQSRRSCCPj3f2gpwzGwWFoC7ycTf1rcQZHOlsJ6N8=
