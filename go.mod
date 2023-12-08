@@ -1,13 +1,13 @@
 module github.com/hexcraft-biz/misc-imgin
 
-go 1.21.1
+go 1.21.5
 
 require (
-	github.com/hexcraft-biz/her v0.0.5
+	github.com/hexcraft-biz/her v0.0.6
 	github.com/neofelisho/apng v0.0.0-20201023155455-6c6fc825f2ce
 	github.com/u2takey/ffmpeg-go v0.5.0
 	github.com/vincent-petithory/dataurl v1.0.0
-	golang.org/x/image v0.13.0
+	golang.org/x/image v0.14.0
 )
 
 require (
